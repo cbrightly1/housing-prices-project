@@ -1,4 +1,4 @@
-# Making an edit for Github
+# Making an edit for Github^^^^
 #
 # STAT 1361 Final Project R Script
 # By Clare Cruz
